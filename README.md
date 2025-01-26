@@ -1,4 +1,4 @@
-clone the repo [http://localhost:3000] and type bellow command
+how to run locally =>clone the repo [https://github.com/Razu-Biswas/chat-ai.git] and type bellow command
 
 ```bash
 npm run dev
